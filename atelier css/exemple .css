@@ -1,0 +1,8 @@
+*{font-family: verdana;
+}
+
+header, footer{background-color: white; border: 1px; border-color: grey; border-style: solid; margin-left: 5px; margin-right: 5px; margin-top: 8px; margin-bottom: 8px; background-color: #444; color: white;}
+section{background-color: #ddd;} 
+
+article{background-color: white; margin-left: 13px; margin-right: 13px; }
+h4,p{margin-left: 5px; }
